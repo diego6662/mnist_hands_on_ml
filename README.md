@@ -12,3 +12,4 @@ The Mnist dataset provided by sklearn is expanded using data augmentation techni
 ### Libraries
 - numpy
 - sklearn
+- pytest
